@@ -1,3 +1,13 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 hello.R
+frotzprot.r
+goodness.fit.r
+processo.md
+simulacao.R
+R/simulacao.R
+R\simulacao.R
+oldies
+oldies/*
+pdfs
+pdfs/*
