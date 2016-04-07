@@ -1,9 +1,19 @@
-Package: egg
+Package: EGGGc
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Title: Exponentiated Generalized G Geometric Distribution
+Version: 0.0.1
+Date: 2016-04-01
+Authors@R: person(family="Gallindo Martins Soares", given="Lucas", email =
+    "lucas.soares@ufpe.br", role = c("aut", "cre"), comment =
+    "Alternate email: lgallindo@gmail.com")
+Maintainer: Lucas Gallindo <lgallindo@gmail.com>
+Description: A new class of distributions called the Exponentiated Generalized
+    G Geometric family, motivated mainly by lifetime issues.
+License: MIT + file LICENSE
+Depends:
+    pracma
 LazyData: TRUE
+Suggests:
+    testthat
+BugReports: https://github.com/lgallindo/EGGGc/issues
+RoxygenNote: 5.0.1.9000
